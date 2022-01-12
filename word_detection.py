@@ -15,8 +15,8 @@ print(url.content)
 
 # text = "Hoy me pregunto qué será de ti Te tuve cerca y ahora estás tan lejos Pero prohibirme recordar lo nuestro es imposible Es imposible No me perdono, sé que te perdí Pero expiraron los remordimientos Fui dictador, y el no dejarte ir Debió haber sido mi primer decreto"
 
-# words = text.split()
-# count = Counter(words)
+# url.content = f.split()
+# count = Counter(words) 
 # frec_word = count.most_common()[0][0]
 
 # print('La palabra mas frecuente es: %s' % frec_word)
